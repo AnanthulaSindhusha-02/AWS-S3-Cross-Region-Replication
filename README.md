@@ -20,11 +20,11 @@ The objective is to create two S3 buckets in different AWS Regions, configure re
 ## AWS Configuration
 
 ### Source Bucket
-- Bucket Name: sanjana-source-klh
-- Region: Hyderabad (ap-south-2)
+- Bucket Name: sindhu-source-klh
+- Region: Mumbai (ap-south-1)
 
 ### Destination Bucket
-- Bucket Name: sanjana-destination-klh
+- Bucket Name: sindhu-destination-klh
 - Region: US East (N. Virginia) (us-east-1)
 
 ## Implementation Steps
